@@ -1,2 +1,5 @@
 # Hello-World
-First Repository
+
+Hi Everyone!!
+
+Gaurav here, believes in hardwork and honesty.
